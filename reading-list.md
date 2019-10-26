@@ -6,17 +6,7 @@ icon: fa-book
 order: 3
 ---
 
-I love books! Here are some I'm reading now:
 
-1. Robert Burton: *The Anatomy of Melancholy*
-2. Robert Musil: *The Man Without Qualities*
-3. Kazuo Ishiguro: *The Unconsoled*
-4. Malcolm Lowry: *Under the Volcano*
-5. Virginia Woolf: *The Waves*
-6. James Joyce: *Finnegans Wake*
-7. Thomas Wolfe: *Look Homeward, Angel*
-8. William Thackeray: *Pendennis*
-9. Karl Marx: *Capital*
-10. James Woodforde: *The Diary of A Country Parson*
-
-source: [The Guardian](https://www.theguardian.com/books/booksblog/2011/jan/04/best-boring-books)
+1. Zhe Zhang, Ming Wu, Jun Yang. DSP-Based Implementation of a Real-Time Sound Field Visualization System Using SONAH Algorithm[C]. Advances in Harmony Search, Soft Computing and Applications. ICHSA 2019. Advances in Intelligent Systems and Computing, vol 1063, 2019.
+2. Xuecong Sun, Han Jia, Zhe Zhang, et al. Sound Localization and Separation in Three-dimensional Space Using a Single Microphone with a Metamaterial Enclosure[J]. arXiv:1908.08160, 2019. (Submitted)
+3. Xinyu Han, Ming Wu, Jun Yang, Zhe Zhang. Sound Source Localization Using Distributed Microphone in Spherical Harmonics Domain[J]. Journal of Signal Processing, 2019. (Accepted)
