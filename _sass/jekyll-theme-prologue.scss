@@ -65,7 +65,7 @@
   height: 0;
   padding-bottom: 42%;
   margin: 1em 0 2em 0;
-  margin: 0 auto;
+  margin: 1em auto;
 
 }
 
@@ -196,7 +196,7 @@
 		font-family: "Courier New", monospace;
 		font-size: 0.9em;
 		tab-size: 4;
-		margin: 0 0 2em 0;
+		margin: 1em 0 2em 0;
 		code {
 			display: block;
 			line-height: 1.5;
@@ -295,8 +295,8 @@
 
 		&.half {
 			display: block;
-			width: 50%;
-			margin: 0 auto;
+			width: 42%;
+			margin: 1em auto;
 
 		}
 
