@@ -7,6 +7,7 @@ order: 3
 ---
 
 
-1. Zhe Zhang, Ming Wu, Jun Yang. DSP-Based Implementation of a Real-Time Sound Field Visualization System Using SONAH Algorithm[C]. Advances in Harmony Search, Soft Computing and Applications. ICHSA 2019. Advances in Intelligent Systems and Computing, vol 1063, 2019.
-2. Xuecong Sun, Han Jia, Zhe Zhang, et al. Sound Localization and Separation in Three-dimensional Space Using a Single Microphone with a Metamaterial Enclosure[J]. arXiv:1908.08160, 2019. (Submitted)
-3. Xinyu Han, Ming Wu, Jun Yang, Zhe Zhang. Sound Source Localization Using Distributed Microphone in Spherical Harmonics Domain[J]. Journal of Signal Processing, 2019. (Accepted)
+1. **Z. Zhang**, M. Wu, and J. Yang, “*DSP-Based Implementation of a Real-Time Sound Field Visualization System Using SONAH Algorithm*,” in Advances in Harmony Search, Soft Computing and Applications, Cham, 2020, pp. 99–110.
+2. X.Y. Han, M. Wu, J. Yang, **Z. Zhang**, “*Sound Source Localization Using Distributed Microphone in Spherical Harmonics Domain*,” Journal of Signal Processing, vol. 35, no. 9, pp. 1564-1571, Sep. 2019.
+3. X.C. Sun, H. Jia, **Z. Zhang**, Y.Z. Yang, Z.Y. Sun, and J. Yang, “*Sound Localization and Separation in Three-dimensional Space Using a Single Microphone with a Metamaterial Enclosure*,” 2019, arXiv:1908.08160. (In Revision, *Advanced Science*)
+4. **Z. Zhang**, M. Wu, X.Y. Han, and J. Yang, “*Performance Comparison of UCA and UCCA based Real-time Sound Source Localization Systems using Circular Harmonics SRP Method*,” 2019. (Submitted, *Applied Acoustics*)
