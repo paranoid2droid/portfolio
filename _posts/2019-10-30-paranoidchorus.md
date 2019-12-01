@@ -7,7 +7,7 @@ layout: post
 
 <a href="https://youtu.be/ECDHRS1kips" target="_blank" class="image featured"><img src="../../../img/paranoidchorus.png" alt="ParanoidChrous" /></a>
 
-An effect you can use either as a plug-in or a standalone application. Knobs on the top-left are basically parameters you can modify on a delay/chorus/flanger effect. In "mood" selection you can control the level of modulating, and in "mode" selection you can choose different oscillators. Plus, the "mod" slider works as a powerful magic booster for the LFO, generating awesome sounds from whatever input.
+A delay-based audio effect that you can run either as a plug-in or a standalone application. Knobs on the top-left are the basic parameters you can play with in a delay/chorus/flanger effect. In "mood" selection you can control the level of modulating, and in "mode" selection you can choose different oscillators for modulation. Plus, the "mod" slider works as a powerful magic booster for the LFO, generating new awesome sounds by high frequency modulation.
 
 <h4 align="center">Video Demo</h4>
 

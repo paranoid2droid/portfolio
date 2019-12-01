@@ -7,7 +7,7 @@ layout: post
 
 <a href="https://youtu.be/HFvsDB2GHOs" target="_blank" class="image featured"><img src="../../../img/wildopenspace.png" alt="Wild Open Space" /></a>
 
-Use a remote sending OSC messages to the program, playing it and making sounds. The sound engine is written in ChucK. I used several unit generators and STKs built in ChucK for the collision sound with kinds of physics model methods implemented like Karplus-Strong algorithm. A physics engine is also built in for the movements of particles. Parameters of synthesizers are affected by the collision position, including timbre and panning. So have fun in a stereo playback!
+A sonic game using a remote sending OSC messages to the program, playing around while making sounds. The sound engine is written in ChucK. Several unit generators and STKs built in ChucK are used for the collision sounds with various kinds of physics modeling methods implemented like Karplus-Strong algorithm. A physics engine is also built in for the movements of particles. Parameters of synthesizers are affected by the collision position, including timbre and panning. So have fun in a stereo playback!
 
 <h4 align="center">Video Demo</h4>
 
