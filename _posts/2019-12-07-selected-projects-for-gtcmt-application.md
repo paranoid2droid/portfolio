@@ -61,7 +61,7 @@ A sonic game using a remote sending OSC messages to the program, playing around 
 
 <a href="https://link.springer.com/chapter/10.1007/978-3-030-31967-0_12" target="_blank" class="image half"><img src="../../../project_sonah/setting.jpg" alt="Acoustical Visual" /></a>
 
-A real-time system using a microphone array to visualize sound filed. Following are dynamic sound field visualizing test results of the prototype system in front of a pair of speakers:
+A real-time system using a microphone array to visualize sound filed. I named this technique by <i>acoustical visual</i>, corresponding to the concept <i>audiovisual</i>. Following are dynamic sound field visualizing test results of the prototype system in front of a pair of speakers:
 
 <p align="center"><i>(Buffering GIFs may need a little time.)</i></p>
 
